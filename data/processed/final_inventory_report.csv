@@ -1,0 +1,16 @@
+Product Name,Avg_Daily_Demand,Replenish_Lead_Time_Days,Safety_Stock_Threshold,Current_Stock,Reorder_Point,Days_of_Supply_Left,Health_Status,Recommended_Action
+Wonka Bar - Triple Dazzle Caramel,12.1,13,236,891,440,73,✅ HEALTHY: Optimal Stock,NO ACTION REQUIRED
+Wonka Bar -Scrumdiddlyumptious,13.16,13,256,901,478,68,✅ HEALTHY: Optimal Stock,NO ACTION REQUIRED
+Wonka Bar - Nutty Crunch Surprise,10.61,11,175,605,326,57,✅ HEALTHY: Optimal Stock,NO ACTION REQUIRED
+Wonka Bar - Fudge Mallows,10.81,8,129,206,241,19,⚠️ WARNING: Low Inventory,STANDARD REORDER: 241 units
+Wonka Bar - Milk Chocolate,13.42,9,181,603,337,44,✅ HEALTHY: Optimal Stock,NO ACTION REQUIRED
+Kazookles,0.61,11,10,34,18,55,✅ HEALTHY: Optimal Stock,NO ACTION REQUIRED
+Lickable Wallpaper,0.68,14,14,42,26,61,✅ HEALTHY: Optimal Stock,NO ACTION REQUIRED
+Wonka Gum,0.8,11,13,69,24,86,✅ HEALTHY: Optimal Stock,NO ACTION REQUIRED
+Hair Toffee,0.02,10,0,1,0,50,✅ HEALTHY: Optimal Stock,NO ACTION REQUIRED
+Fizzy Lifting Drinks,0.04,8,0,0,0,0,🚨 CRITICAL: Stockout Imminent,EMERGENCY REORDER: 0 units
+Everlasting Gobstopper,0.02,11,0,1,0,50,✅ HEALTHY: Optimal Stock,NO ACTION REQUIRED
+SweeTARTS,0.09,8,1,4,1,44,✅ HEALTHY: Optimal Stock,NO ACTION REQUIRED
+Laffy Taffy,0.06,10,0,0,0,0,🚨 CRITICAL: Stockout Imminent,EMERGENCY REORDER: 0 units
+Nerds,0.02,9,0,1,0,50,✅ HEALTHY: Optimal Stock,NO ACTION REQUIRED
+Fun Dip,2.0,8,24,19,44,9,🚨 CRITICAL: Stockout Imminent,EMERGENCY REORDER: 25 units

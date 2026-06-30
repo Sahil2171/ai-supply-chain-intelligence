@@ -1,0 +1,15 @@
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# IDE Folders
+.idea/
+.vscode/
+
+# Ignore large raw data if needed (Optional, remove if your data folder is also small)
+data/raw/

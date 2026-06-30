@@ -1,0 +1,16 @@
+Product Name,Avg_Daily_Demand,Replenish_Lead_Time_Days,Safety_Stock_Threshold,Current_Stock
+Wonka Bar - Triple Dazzle Caramel,12.1,13,236,891
+Wonka Bar -Scrumdiddlyumptious,13.16,13,256,901
+Wonka Bar - Nutty Crunch Surprise,10.61,11,175,605
+Wonka Bar - Fudge Mallows,10.81,8,129,206
+Wonka Bar - Milk Chocolate,13.42,9,181,603
+Kazookles,0.61,11,10,34
+Lickable Wallpaper,0.68,14,14,42
+Wonka Gum,0.8,11,13,69
+Hair Toffee,0.02,10,0,1
+Fizzy Lifting Drinks,0.04,8,0,0
+Everlasting Gobstopper,0.02,11,0,1
+SweeTARTS,0.09,8,1,4
+Laffy Taffy,0.06,10,0,0
+Nerds,0.02,9,0,1
+Fun Dip,2.0,8,24,19
