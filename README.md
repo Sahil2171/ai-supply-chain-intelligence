@@ -125,25 +125,8 @@ ai-supply-chain-intelligence/
 
 ---
 
-## ⚠️ Known Limitations
 
-Being direct about these because a portfolio project is more credible with them stated than discovered by a recruiter:
 
-- **Raw data isn't in the repo.** `data/raw/` is gitignored, so `src/preprocessing.py` and the `train_*.py` scripts can't actually be re-run by someone who clones this — the source CSVs (`nassau_candy.csv`, `us_zips.csv`) never made it in. The app itself works fine (it only needs the committed `models/` and `data/processed/` files), but "full reproducibility" currently isn't true. Either commit a sanitized version of the raw data or say explicitly in the repo that raw data is excluded and available on request.
-- **Filename typo:** `src/train_intentory.py` should be `train_inventory.py`. Harmless once you know about it, but it's the kind of thing that makes a codebase look unreviewed.
-- **`shipping_regressor.pkl` is ~30MB** committed directly to git. Works, but [Git LFS](https://git-lfs.com/) is the correct home for a binary that size — plain git repos handle large binaries badly over time (bloated clone size, no diffing).
-- **No automated tests, no CI.** Fine for a solo portfolio project, but worth flagging if you're asked about testing practices in an interview.
-
----
-
-## 🗺️ Possible Next Steps
-
-- Add screenshots or a short GIF walkthrough to this README — a dashboard project is much easier to evaluate at a glance
-- Add a repository description and topics on GitHub (currently blank — hurts discoverability)
-- Dockerize for one-command local setup
-- Basic pytest coverage on the Haversine and reorder-point calculations (pure functions, cheap to test)
-
----
 
 ## 👨‍💻 Author
 
