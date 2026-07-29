@@ -1,4 +1,4 @@
-# 🏭 Nassau AI — Supply Chain Intelligence Platform
+# 🏭 Logistics AI — Supply Chain Intelligence Platform
 
 A decision-intelligence dashboard for supply chain operations, built with Streamlit and four purpose-built ML/OR models — factory reallocation, demand forecasting, inventory reorder logic, and SLA delay risk scoring.
 
@@ -14,7 +14,7 @@ A decision-intelligence dashboard for supply chain operations, built with Stream
 
 ## Overview
 
-Nassau AI simulates the decision layer a supply chain analyst would use day-to-day: which factory should fulfill an order, how much of each product will sell next month, when to reorder stock, and which live orders are about to breach their SLA. Each module is backed by a real trained model rather than static rules dressed up as "AI" — the specifics are below.
+Logistics AI simulates the decision layer a supply chain analyst would use day-to-day: which factory should fulfill an order, how much of each product will sell next month, when to reorder stock, and which live orders are about to breach their SLA. Each module is backed by a real trained model rather than static rules dressed up as "AI" — the specifics are below.
 
 The dataset is the well-known **Nassau Candy Distributor** case-study dataset (Wonka-branded SKUs, US regional shipping records) commonly used in BI/analytics coursework. Good for demonstrating the modeling pipeline end-to-end — worth being upfront that it's not proprietary production data if it comes up in an interview.
 
