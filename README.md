@@ -22,7 +22,7 @@ The dataset is the well-known **Nassau Candy Distributor** case-study dataset (W
 
 ## 🧠 What's Inside — 4 Modules
 
-### 🚚 Shipping Optimization — `http://.../Shipping Optimization`
+### 🚚 Shipping Optimization
 - **Model:** Random Forest Regressor predicting lead time in days
 - **Engineering:** Haversine great-circle distance from customer ZIP to each of 5 candidate factories, used as a model feature alongside ship mode, region, and order volume
 - Runs a "what-if" simulation across all factories and ranks them by a speed-vs-cost priority slider, with a live cost/lead-time comparison chart
