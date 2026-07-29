@@ -9,7 +9,16 @@ A decision-intelligence dashboard for supply chain operations, built with Stream
 
 **Live demo:** [ai-supply-chain-intelligence.streamlit.app](https://ai-supply-chain-intelligence.streamlit.app)
 > Streamlit Community Cloud apps sleep after inactivity — if the link shows a "wake up" screen, give it ~30 seconds to spin back up.
+---
+## 📸 Screenshots
 
+| Shipping Optimization | Demand Forecasting |
+|---|---|
+| ![Shipping module](screenshots/shipping.png) | ![Forecasting module](screenshots/forecasting.png) |
+
+| Inventory Command Center | SLA Delay Risk |
+|---|---|
+| ![Inventory module](screenshots/inventory.png) | ![Delay risk module](screenshots/delay.png) |
 ---
 
 ## Overview
