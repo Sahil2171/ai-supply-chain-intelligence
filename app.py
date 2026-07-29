@@ -10,7 +10,7 @@ import warnings
 warnings.filterwarnings('ignore')
 
 # 1. Page Configuration ---
-st.set_page_config(page_title="Nassau AI - Supply Chain", layout="wide")
+st.set_page_config(page_title="Logistics AI - Supply Chain", layout="wide")
 
 # ---SUPPLY CHAIN THEME INJECTION ---
 st.markdown("""
@@ -236,7 +236,7 @@ FACTORIES = {
 }
 
 # 4. Sidebar Navigation ---
-st.sidebar.title("🏭 Nassau AI")
+st.sidebar.title("🏭 Logistics AI")
 st.sidebar.markdown("**Decision Intelligence Platform**")
 st.sidebar.markdown("---")
 
